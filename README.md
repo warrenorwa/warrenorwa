@@ -1,7 +1,7 @@
-<h1 align="center">Hi, I'm Warren Joe Orwa 👋</h1>
+<h1 align="center">Hi, I'm Warren Joe Orwa </h1>
 
 <p align="center">
-IT & DevOps practitioner focused on networks, databases, and cloud automation
+DevOps practitioner focused on Python, APIs, and cloud automation — with a working foundation in networks and databases
 </p>
 
 <p align="center">
